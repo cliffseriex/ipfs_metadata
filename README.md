@@ -133,7 +133,9 @@ This will trigger the CI/CD pipeline whenever changes are pushed to the `main` b
 
 1. Navigate to your Terraform configuration directory:
    ```bash
-   cd /path/to/your/terraform/configuration
+   cd /path/to/your/terraform/ue1/prod-p1/ecs
+   cd /path/to/your/terraform/ue1/prod-p1/db
+   
    ```
 
 2. Initialize Terraform:
